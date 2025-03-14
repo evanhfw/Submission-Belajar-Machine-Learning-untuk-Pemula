@@ -81,7 +81,7 @@ Repositori ini berisi proyek **Machine Learning untuk analisis penjualan minuman
 ### **1. Clone repositori**
 
 ```bash
-git clone https://github.com/your-username/beverage-sales-ml.git
+git clone [https://github.com/your-username/beverage-sales-ml.git](https://github.com/evanhfw/Submission-Belajar-Machine-Learning-untuk-Pemula.git)
 cd beverage-sales-ml
 ```
 
