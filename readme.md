@@ -10,10 +10,8 @@ Repositori ini berisi proyek **Machine Learning untuk analisis penjualan minuman
 ## **📂 Struktur Repositori**
 
 ```
-│── clustering/
-│   ├── [Clustering]_Submission_Akhir_BMLP_Evan_Hanif_Widiatama.ipynb
-│── classification/
-│   ├── [Klasifikasi]_Submission_Akhir_BMLP_Your_Name.ipynb
+│── [Clustering]_Submission_Akhir_BMLP_Evan_Hanif_Widiatama.ipynb
+│── [Klasifikasi]_Submission_Akhir_BMLP_Your_Name.ipynb
 │── requirements.txt
 │── README.md
 ```
