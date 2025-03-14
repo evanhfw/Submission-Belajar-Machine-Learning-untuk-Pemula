@@ -1,7 +1,7 @@
 pandas
 numpy
 seaborn
-scikit-learn
+scikit-learn==1.5.2
 optuna
 matplotlib
 category-encoders
